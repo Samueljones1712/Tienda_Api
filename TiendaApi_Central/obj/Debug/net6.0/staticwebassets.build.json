@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KOLMAXaeZM3v8VmbMbiHaQG5OBNkAGyn1aamdDNtJQo=",
+  "Source": "TiendaApi_Central",
+  "BasePath": "_content/TiendaApi_Central",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
